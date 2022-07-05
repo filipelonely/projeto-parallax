@@ -64,10 +64,16 @@ section#img02 {
     letter-spacing: 8px;
 }
 
-article.texto02 {
+article.texto02, article.texto03 {
     background-color: #282e34;
     color: #ddd;
     padding: 50px 80px 50px 80px;
     line-height: 1.8em;
     text-align: center;
+}
+
+section#img03 {
+    background-image: url('imagens/image3.jpg');
+    background-position: center center;
+    min-height: 400px;
 }
